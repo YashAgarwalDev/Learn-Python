@@ -1,2 +1,4 @@
 # Learn-Python
-just doing some noob things. Basic Home Work
+# Basic Learning Python From Home as WORKFROMHOME
+
+Keep learning is a good thing ...
